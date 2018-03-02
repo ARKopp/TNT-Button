@@ -5,14 +5,23 @@ This is ouer famous tnt button I developed for the wintercamp in Dubai. This ver
 There is one version you need would clue for and one pressfit version.
 
 
+![](tnt-button.jpg)
+
+I the newest version I just skipped the LED so its just a Button, a 3V power supply and an active buzzer. 
+
+You can 
+
+
+![](tnt-button-electronics.png)
 
 
 ## How you can help?
 
 * lasercut the design yourself
+* share your make with us
 * make a workshop with it
-* share your makes with us at 
 * buy one and support erfindergarden
+* help us to design a small pcb for it and some Attiny Circuit
 
 ## Designer
 
@@ -38,7 +47,7 @@ Andreas Kopp
  
 Thanks Kenny for the parametric openscad version.
 
-## Licence
+## License
 
 This project is [Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)](https://creativecommons.org/licenses/by-sa/2.5/). You can do anything what you want with it but please say that you got the original design from erfindergarden and als share it under the same license. 
 
